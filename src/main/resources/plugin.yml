@@ -1,0 +1,8 @@
+name: NetherPortalBlocker
+version: '${project.version}'
+main: fr.edencraft.netherportalblocker.NetherPortalBlocker
+api-version: 1.17
+prefix: NetherPortalBlocker
+authors: [ NayeOne ]
+description: Minecraft plugin to block creation of nether portal.
+website: https://github.com/EdenStacks
